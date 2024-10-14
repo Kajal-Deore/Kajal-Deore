@@ -2,10 +2,6 @@
     <img alt="GIF" src="Kajaldeore.gif" />
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
-</p>
-
 <img alt='GIF' src='Line.gif' />
 
 **Looking for:**
