@@ -54,14 +54,14 @@ I'm always open to connecting with other developers and exploring exciting oppor
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=KajalDeore04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KajalDeore04&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalDeore04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kajal-Deore&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kajal-Deore&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal-Deore&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=KajalDeore04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kajal-Deore&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajaldeore04&theme=radical" />
+    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajal-deore&theme=radical" />
   </a>
